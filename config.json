@@ -1,6 +1,6 @@
 {
   "name": "bookland",
-  "version": "0.1",
+  "version": "0.94",
   "description": "a tool for creating barcodes from ISBNs",
   "url": "https://github.com/BlackEarth/bookland",  
   "author": "Jacob Milgram",
