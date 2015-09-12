@@ -1,0 +1,21 @@
+{
+  "name": "bookland",
+  "version": "0.1",
+  "description": "a tool for creating barcodes from ISBNs",
+  "url": "https://github.com/BlackEarth/bookland",  
+  "author": "Jacob Milgram",
+  "license": "GPL 2.0",
+  "package_data": {},
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
+  ],
+  "entry_points": {},
+  "install_requires": [],
+  "extras_require": {
+    "dev": [],
+    "test": []
+  },
+  "data_files": []
+}
